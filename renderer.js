@@ -3,7 +3,7 @@ const { ipcRenderer } = require('electron');
 function handleClick() {
     
     // GitHub raw file URL (replace with your file's raw URL)
-    const fileUrl = 'https://raw.githubusercontent.com/hornbuck/roblox/main/empty.rbxl'; // replace with CNCF's GitHub
+    const fileUrl = 'https://raw.githubusercontent.com/cncf-kids-day/workshops/main/Roblox-in-London.rbxl'; // replace with CNCF's GitHub
 
     // File name to save as
     const fileName = 'roblox_project.rbxl';
