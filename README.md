@@ -1,1 +1,1 @@
-Feel free to download and try this game out on Roblox Studio, but it is still pending updates for solving the problems embedded in the game. Solutions incoming July 2026!
+Feel free to download and try this game out on Roblox Studio, but this project is currently being revamped for Godot, an open source game design engine. Updates are pending, and they will describe how to solve the problems embedded in the game. This is incoming for December 2026!
